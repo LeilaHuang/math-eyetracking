@@ -1,0 +1,83 @@
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\MathTrack1.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\MathTrack1.exe
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\MathTrack1.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MainWindow.g.cs
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\App.g.cs
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1_MarkupCompile.cache
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1_MarkupCompile.lref
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MainWindow.baml
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.g.resources
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.exe
+c:\users\kevin\documents\visual studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1_Content.g.cs
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\MathTrack1.exe.config
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.exe
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.pdb
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\MathTrack1.exe
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\MathTrack1.pdb
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.dll
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.pdb
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.xml
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.csprojResolveAssemblyReference.cache
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MainWindow.g.cs
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\App.g.cs
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1_Content.g.cs
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1_MarkupCompile.cache
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1_MarkupCompile.lref
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MainWindow.baml
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.g.resources
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.Properties.Resources.resources
+C:\Users\winoto\Documents\Visual Studio 2015\Projects\MathTrack1\MathTrack1\obj\Debug\MathTrack1.csproj.GenerateResource.Cache
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\MathTrack1.exe.config
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1.exe
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1.pdb
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\MathTrack1.exe
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\MathTrack1.pdb
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.dll
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.pdb
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.xml
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1.csprojResolveAssemblyReference.cache
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MainWindow.g.cs
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\App.g.cs
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1_Content.g.cs
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1_MarkupCompile.cache
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1_MarkupCompile.lref
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MainWindow.baml
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1.g.resources
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1.Properties.Resources.resources
+C:\Users\D501-001\Desktop\MathTrack1\MathTrack1\obj\Debug\MathTrack1.csproj.GenerateResource.Cache
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\MathTrack1.exe.config
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1.exe
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1.pdb
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\MathTrack1.exe
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\MathTrack1.pdb
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.dll
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.pdb
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\EyeXFramework.xml
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1.csprojResolveAssemblyReference.cache
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MainWindow.g.cs
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\App.g.cs
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1_Content.g.cs
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1_MarkupCompile.cache
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1_MarkupCompile.lref
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MainWindow.baml
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1.g.resources
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1.Properties.Resources.resources
+C:\Users\huangzeqian\Desktop\数学项目\MathTrack1\MathTrack1\obj\Debug\MathTrack1.csproj.GenerateResource.Cache

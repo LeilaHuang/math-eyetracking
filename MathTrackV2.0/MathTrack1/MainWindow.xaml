@@ -1,0 +1,76 @@
+﻿<Window x:Class="MathTrack1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MathTrack1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1500" WindowState="Maximized" WindowStyle="None">
+    <Grid>
+        <Button x:Name="btnExit" Content="EXIT" HorizontalAlignment="Left" Height="57" Margin="1132,628,0,0" VerticalAlignment="Top" Width="218" Click="exit_Click" FontSize="36"/>
+        <Label x:Name="lblNumeric" Content=" 4    2" HorizontalAlignment="Left" Height="256" Margin="10,50,0,0" VerticalAlignment="Top" Width="707" FontSize="200" FontFamily="Tahoma"/>
+        <Label x:Name="lblplus" Content="+" HorizontalAlignment="Left" Height="245" Margin="260,55,0,0" VerticalAlignment="Top" Width="101" FontSize="150"/>
+        <Label x:Name="lblequal" Content="=" HorizontalAlignment="Left" Height="245" Margin="611,55,0,0" VerticalAlignment="Top" Width="101" FontSize="150"/>
+        <Button x:Name="btnOp1" Content="7" HorizontalAlignment="Left" Height="250" Margin="717,50,0,0" VerticalAlignment="Top" Width="250" Click="op1_Click" FontSize="200" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontFamily="Tahoma" />
+        <Button x:Name="btnOp2" Content="6" HorizontalAlignment="Left" Height="250" Margin="967,50,0,0" VerticalAlignment="Top" Width="250" Click="op2_Click" FontSize="200" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontFamily="Tahoma" />
+        <Button x:Name="btnOp3" Content="3" HorizontalAlignment="Left" Height="250" Margin="1217,50,0,0" VerticalAlignment="Top" Width="250" Click="op3_Click" FontSize="200" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontFamily="Tahoma" />
+        <Label x:Name="lblResult" Content="" HorizontalAlignment="Left" Height="150" Margin="50,600,0,0" VerticalAlignment="Top" Width="1000" FontSize="108"/>
+        <Label x:Name="lblXY" Content="0, 0" HorizontalAlignment="Left" Height="67" Margin="1132,690,0,0" VerticalAlignment="Top" Width="308" FontSize="48"/>
+
+        <MediaElement x:Name="gifq1" Visibility="Collapsed"  LoadedBehavior="Play" Source="levels/12/2.gif" Stretch="Fill" HorizontalAlignment="Left" Height="250" Margin="5,306,0,0" VerticalAlignment="Top" Width="250" >
+            <MediaElement.OpacityMask>
+                <ImageBrush ImageSource="levels/12/2.gif"/>
+            </MediaElement.OpacityMask>
+        </MediaElement>
+
+        <MediaElement x:Name="gifq2" Visibility="Collapsed"   LoadedBehavior="Play" Source="levels/12/2.gif" Stretch="Fill" HorizontalAlignment="Left" Height="250" Margin="361,306,0,0" VerticalAlignment="Top" Width="250" >
+            <MediaElement.OpacityMask>
+                <ImageBrush ImageSource="levels/12/2.gif"/>
+            </MediaElement.OpacityMask>
+        </MediaElement>
+
+        <MediaElement x:Name="gifa1" Visibility="Collapsed"   LoadedBehavior="Play" Source="levels/12/2.gif" Stretch="Fill" HorizontalAlignment="Left" Height="250" Margin="717,306,0,0" VerticalAlignment="Top" Width="250" >
+            <MediaElement.OpacityMask>
+                <ImageBrush ImageSource="levels/12/2.gif"/>
+            </MediaElement.OpacityMask>
+        </MediaElement>
+
+        <MediaElement x:Name="gifa2" Visibility="Collapsed"  LoadedBehavior="Play" Source="levels/12/2.gif" Stretch="Fill" HorizontalAlignment="Left" Height="250" Margin="967,306,0,0" VerticalAlignment="Top" Width="250" >
+            <MediaElement.OpacityMask>
+                <ImageBrush ImageSource="levels/12/2.gif"/>
+            </MediaElement.OpacityMask>
+        </MediaElement>
+
+        <MediaElement x:Name="gifa3" Visibility="Collapsed"  LoadedBehavior="Play" Source="levels/12/2.gif" Stretch="Fill" HorizontalAlignment="Left" Height="250" Margin="1220,306,0,0" VerticalAlignment="Top" Width="250" >
+            <MediaElement.OpacityMask>
+                <ImageBrush ImageSource="levels/12/2.gif"/>
+            </MediaElement.OpacityMask>
+        </MediaElement>
+
+    
+
+        <Image x:Name="imgq1" Visibility="Visible" HorizontalAlignment="Left" Height="250" Margin="5,306,0,0" VerticalAlignment="Top" Width="250" Source="levels/1/4.png"/>
+        <Label x:Name="lblPlus" Content="+" HorizontalAlignment="Left" Height="245" Margin="260,311,0,0" VerticalAlignment="Top" Width="101" FontSize="150"/>
+        <Image x:Name="imgq2" Visibility="Visible" HorizontalAlignment="Left" Height="250" Margin="361,306,0,0" VerticalAlignment="Top" Width="250" Source="levels/1/2.png"/>
+        <Label x:Name="lblEqual" Content="=" HorizontalAlignment="Left" Height="245" Margin="616,311,0,0" VerticalAlignment="Top" Width="101" FontSize="150"/>
+        <Button x:Name="btnOp1Img" HorizontalAlignment="Left" Height="250" Margin="717,306,0,0" VerticalAlignment="Top" Width="250" Click="op1_Click" FontSize="108" Foreground="{x:Null}" MouseEnter="MouseEnter" MouseLeave="MouseLeave" Background="{x:Null}">
+            <Image Source="levels/1/7.png" Opacity="100" Name="imga1" Stretch="Fill"></Image>
+        </Button>
+        <Button x:Name="btnOp2Img"  HorizontalAlignment="Left" Height="250" Margin="967,306,0,0" VerticalAlignment="Top" Width="250" Click="op2_Click" FontSize="108" Foreground="{x:Null}" MouseEnter="MouseEnter" MouseLeave="MouseLeave" Background="{x:Null}">
+            <Image Source="levels/1/6.png" Opacity="100" Name="imga2" Stretch="Fill"></Image>
+        </Button>
+        <Button x:Name="btnOp3Img" HorizontalAlignment="Left" Height="250" Margin="1220,306,0,0" VerticalAlignment="Top" Width="250" Click="op3_Click" FontSize="108" MouseEnter="MouseEnter" MouseLeave="MouseLeave" Background="{x:Null}">
+            <Image Source="levels/1/3.png" Opacity="100" Name="imga3" Stretch="Fill"></Image>
+
+        </Button>
+
+        
+
+
+
+    </Grid>
+
+
+
+
+</Window>
